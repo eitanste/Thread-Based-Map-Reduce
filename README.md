@@ -34,8 +34,7 @@ To build the library, simply run the `make` command. This will compile the libra
 
 ## Contact
 
-For any questions or assistance, feel free to contact the library's developer at `developer@email.com`.
+For any questions or assistance, feel free to contact the library's developer at `Eitan.Stepanov@gmail.com`.
 
 ---
 
-This README provides an overview of the MapReduce Framework, its features, and a guide on how to use it. You can customize this content further based on the actual details and goals of your project.
